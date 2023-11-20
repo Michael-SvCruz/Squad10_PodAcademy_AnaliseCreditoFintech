@@ -1,4 +1,7 @@
 # Dataset Description
+
+**OBSERVAÇÃO:** Baixe os arquivos para a competição diretamente da página do [Kaggle](https://www.kaggle.com/competitions/pod-academy-analise-de-credito-para-fintech/data)
+
 Para resolver o problema de negócio a empresa reuniu os dados que estavam disponíveis e disponibilizou no formato de arquivo CSV para o treinamento e avaliação dos modelos.
 Abaixo segue uma breve descrição do conteúdo de cada arquivo disponibilizado
 
