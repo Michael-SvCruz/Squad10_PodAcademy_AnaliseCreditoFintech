@@ -1,5 +1,6 @@
 # Squad10_PodAcademy_AnaliseCreditoFintech
 Hackathon - Uma competição privada da PoDAcademy para ciência de dados voltada para a área de crédito.
+[Link da competição no Kaggle](https://www.kaggle.com/competitions/pod-academy-analise-de-credito-para-fintech/overview)
 
 # Overview
 A PoD Bank, uma startup do segmento financeiro que concede crédito para população com pouca informação de crédito, ganhou mercado e maturidade. Com isso, começou a sentir necessidade de um modelo de crédito para amparar suas decisões e deixar de depender apenas do BI. Decidiu, então, montar uma área de Planejamento e Modelagem de Crédito focada em modelos estatísticos sob a gestão do Bruno Alvarenga.
